@@ -3,15 +3,7 @@
 o78tyuyuy
 ghgvggyjjgkh
 ujhnuyhujh
-<!DOCTYPE html>
-<html lang="es">  
-<head>    
-    <title>WEB DE PACO</title>    
-    <meta charset="UTF-8">
-    <meta name="title" content="WEB DE PACO">
-    <meta name="description" content="FAN PAGE LeBron">    
-    <link href="paco.css" rel="stylesheet">    
-</head>  
+
 <body>
 <BODY BGCOLOR="#00FFFF">    
     <header>
