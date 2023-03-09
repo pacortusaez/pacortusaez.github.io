@@ -24,7 +24,9 @@
 
         <h1>WEB DE PACO</h1>  
     </header>   
-    <section> 
+    <section>
+	<button onclick = "cambiaColor()">cambia de color el fondo a azul</button>
+    	<button onclick = "cambiaColor2()">cambia de color el fondo a blanco</button>
 
 
         <article>
@@ -75,7 +77,17 @@
 				nombre= prompt ('¿Cuál es tu nombre? ') ;	
 				resultado = inicio + espacio + nombre + final;
 				alert (resultado);
-        	</script>	
+        	</script>
+	    	<script>
+			function cambiaColor() {
+ 			document.getElementsByTagName("BODY")[0].style.backgroundColor ="#007E8B";
+			}
+		</script>
+		<script>
+			function cambiaColor2() {
+ 			document.getElementsByTagName("BODY")[0].style.backgroundColor ="#FFFFFF";
+			}
+		</script>
         <a href="../index.html">index</a>
     </aside>
     <footer>
